@@ -48,3 +48,4 @@ Hi there, I'm glad you stopped by!
 [<img src="https://shannon-jliu.github.io/static/media/logo.4c3e0de7f2fd836c50a8.png" alt="Website" width="24" height="24" />](https://shannon-jliu.github.io)
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="24" height="24" />](https://www.linkedin.com/in/shannonjliu/)
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="24" height="24" />](https://www.instagram.com/shannon.jliu/)
+[<img src="https://yt3.googleusercontent.com/ytc/AIdro_n1Dimf0bNnEffBzMYXoDM97fU-wRC6fY1Y_XBbxGWyRw=s160-c-k-c0x00ffffff-no-rj" alt="YouTube" width="24" height="24" />](https://www.youtube.com/c/JerseyDrone)
